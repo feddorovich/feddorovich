@@ -1,6 +1,10 @@
+<div align="center">
+  
 ### Hi there 👋
-https://www.codewars.com/users/feddorovich/badges/large?theme=light
-
+[![Profile badge](https://www.codewars.com/users/feddorovich/badges/large)](https://www.codewars.com/users/feddorovich)
+  
+</div>
+  
 <!--
 **feddorovich/feddorovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
