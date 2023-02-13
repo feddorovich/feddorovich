@@ -8,7 +8,7 @@
   
 [![Profile badge](https://www.codewars.com/users/feddorovich/badges/large)](https://www.codewars.com/users/feddorovich)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=feddorovich&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=feddorovich&theme=dark)](https://github.com/feddorovich)
   
 </div>
   
