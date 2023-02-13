@@ -2,6 +2,11 @@
   
 ### Hi there 👋
 [![Profile badge](https://www.codewars.com/users/feddorovich/badges/large)](https://www.codewars.com/users/feddorovich)
+
+### Follow me
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-011805?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/feddorovich/)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-011805?style=for-the-badge&logo=telegram)](https://t.me/feddorovich)
+[![CODEWARS](https://img.shields.io/badge/CODEWARS-011805?style=for-the-badge&logo=codewars&logoColor=bb432c)](https://www.codewars.com/users/feddorovich)
   
 </div>
   
