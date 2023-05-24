@@ -10,15 +10,19 @@
     <li>📙 Check out my <a href="https://fedrr.com/">resume</a>.</li>
     <li>🎉 Fun Fact: I hate beans.</li>
   </ul>
-
-<div align="left">
   
+<br/>
+
+<!--  
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-011805?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/feddorovich/)
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-011805?style=for-the-badge&logo=telegram)](https://t.me/feddorovich)
 [![CODEWARS](https://img.shields.io/badge/CODEWARS-011805?style=for-the-badge&logo=codewars&logoColor=bb432c)](https://www.codewars.com/users/feddorovich)
-  
-[![Profile badge](https://www.codewars.com/users/feddorovich/badges/large)](https://www.codewars.com/users/feddorovich)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=feddorovich&theme=dark)](https://github.com/feddorovich)
+[![Profile badge](https://www.codewars.com/users/feddorovich/badges/large)](https://www.codewars.com/users/feddorovich)
+-->
+  
+<div align="center">  
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=feddorovich&theme=dark)](https://github.com/feddorovich)
   
 </div>
