@@ -7,7 +7,7 @@
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/feddorovich/">LinkedIn</a>.</li>
 <!--     <li>🔭 Solving rubik's cube 5x5!</a>.</li> -->
     <li>💬 Ping me about <strong>Frontend, React, Redux, Vue, TS/JS and other frontend dev stuff</strong>.</li>
-    <li>📙 Check out my <a href="https://fedrr.com/">resume</a>.</li>
+    <li>📙 Check out my <a href="https://fedrr.com/cv/FedorovichSergeyCV.pdf">resume</a>.</li>
     <li>🎉 Fun Fact: I hate beans.</li>
   </ul>
 
