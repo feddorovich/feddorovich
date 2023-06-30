@@ -24,8 +24,9 @@
 <br/>
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/-react-282a36?style=for-the-badge&amp;logo=react"/>
-<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-282a36?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
 <img alt="Redux" src="https://img.shields.io/badge/-redux-282a36?style=for-the-badge&amp;logo=redux&amp;logoColor=6F3FB3"/>
+<img alt="Next JS" src="https://img.shields.io/badge/Next-282a36?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-282a36?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-282a36?style=for-the-badge&amp;logo=Storybook"/>
 <img alt="JS" src="https://img.shields.io/badge/-javascript-282a36?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E"/>
 <img alt="TS" src="https://img.shields.io/badge/-typescript-282a36?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6"/>
