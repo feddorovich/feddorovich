@@ -1,5 +1,6 @@
 <img width="400px" align="right" src="https://raw.githubusercontent.com/feddorovich/feddorovich/master/this-is-fine.jpg" />
-  <h2>⚡️ A Few Quick Facts</h2>
+  <h3>⚡️ A Few Quick Facts</h2>
+  
   <ul>
 <!--     <li>🔭 Solving rubik's cube 4x4.</li> -->
     <li>🧐 I have a master's degree in economics.</li>
