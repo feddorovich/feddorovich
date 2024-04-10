@@ -20,6 +20,8 @@
 <br>
 <br>
 
+<!-- 
+
 <details>	
 <summary><b> 🚀 Skills: </b><img align="right" src="https://www.codewars.com/users/feddorovich/badges/small"></summary>
 <br/>
@@ -58,3 +60,5 @@
 </div>
   
 </details>
+
+-->
